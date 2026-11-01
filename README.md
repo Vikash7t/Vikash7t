@@ -55,5 +55,5 @@ Building reliable web applications, improving backend engineering skills, and de
 ### Connect With Me
 
 - **GitHub:** [Vikash7t](https://github.com/Vikash7t)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vikash-singh-2714a0278)
-- **Email:** [Contact Me](mailto:vikashsingh7490@gmail.com)
+- **LinkedIn:** [Vikash Singh](https://www.linkedin.com/in/vikash-singh-2714a0278)
+- **Email:** [vikashsingh7490@gmail.com](mailto:vikashsingh7490@gmail.com)
