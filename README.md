@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Vikash Singh
 
-<!--
-**Vikash7t/Vikash7t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Software Developer
 
-Here are some ideas to get you started:
+I build full-stack web applications and backend systems, focusing on practical business solutions, clean architecture, and maintainable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work across frontend development, backend engineering, API integration, and database-driven application development.
+
+---
+
+### Technical Skills
+
+**Frontend**
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- HTML5
+- CSS3
+
+**Backend**
+- Node.js
+- NestJS
+- Express.js
+- REST APIs
+
+**Database & ORM**
+- PostgreSQL
+- Prisma
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+---
+
+### What I Work On
+
+- Full-stack web application development
+- Backend API design and integration
+- Authentication and role-based access control
+- Database design and management
+- Modular and scalable application architecture
+- Business workflow automation
+
+---
+
+### Current Focus
+
+Building reliable web applications, improving backend engineering skills, and developing a deeper understanding of software architecture.
+
+---
+
+### Connect With Me
+
+- **GitHub:** [Vikash7t](https://github.com/Vikash7t)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/vikash-singh-2714a0278)
+- **Email:** [Contact Me](mailto:vikashsingh7490@gmail.com)
